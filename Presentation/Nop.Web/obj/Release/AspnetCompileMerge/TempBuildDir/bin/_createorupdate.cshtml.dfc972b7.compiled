@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Administration/Views/Category/_CreateOrUpdate.cshtml" hash="7b0fbbc7" filehash="ffffca6d7c635ffa" flags="110000" assembly="App_Web_31qshmqd" type="ASP._Page_Administration_Views_Category__CreateOrUpdate_cshtml">
+    <filedeps>
+        <filedep name="/Administration/Views/Category/_CreateOrUpdate.cshtml" />
+    </filedeps>
+</preserve>

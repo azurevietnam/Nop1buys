@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Administration/Views/RecurringPayment/Edit.cshtml" hash="7b0fbbc7" filehash="2d8ecbc23349" flags="110000" assembly="App_Web_gdogre4u" type="ASP._Page_Administration_Views_RecurringPayment_Edit_cshtml">
+    <filedeps>
+        <filedep name="/Administration/Views/RecurringPayment/Edit.cshtml" />
+    </filedeps>
+</preserve>

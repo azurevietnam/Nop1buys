@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Administration/Views/SpecificationAttribute/_CreateOrUpdateOption.cshtml" hash="7b0fbbc7" filehash="3bc5362f548a" flags="110000" assembly="App_Web_dym3a5sl" type="ASP._Page_Administration_Views_SpecificationAttribute__CreateOrUpdateOption_cshtml">
+    <filedeps>
+        <filedep name="/Administration/Views/SpecificationAttribute/_CreateOrUpdateOption.cshtml" />
+    </filedeps>
+</preserve>

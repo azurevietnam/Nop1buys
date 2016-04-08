@@ -1,0 +1,11 @@
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Payments.Manual\Views\PaymentManual\Configure.cshtml
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Payments.Manual\Views\PaymentManual\PaymentInfo.cshtml
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Payments.Manual\Description.txt
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Payments.Manual\web.config
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Payments.Manual\logo.jpg
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.dll.config
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.dll
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.pdb
+E:\IMS\1BuyVN\SourceCode\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.csprojResolveAssemblyReference.cache
+E:\IMS\1BuyVN\SourceCode\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.dll
+E:\IMS\1BuyVN\SourceCode\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.pdb

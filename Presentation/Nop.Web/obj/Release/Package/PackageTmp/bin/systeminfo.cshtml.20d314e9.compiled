@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Administration/Views/Common/SystemInfo.cshtml" hash="7b0fbbc7" filehash="ffffc213ea0e9839" flags="110000" assembly="App_Web_owa4pfbz" type="ASP._Page_Administration_Views_Common_SystemInfo_cshtml">
+    <filedeps>
+        <filedep name="/Administration/Views/Common/SystemInfo.cshtml" />
+    </filedeps>
+</preserve>

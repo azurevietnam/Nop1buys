@@ -1,0 +1,10 @@
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Views\ShippingAustraliaPost\Configure.cshtml
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Description.txt
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\web.config
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\logo.jpg
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Nop.Plugin.Shipping.AustraliaPost.dll.config
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Nop.Plugin.Shipping.AustraliaPost.dll
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Nop.Plugin.Shipping.AustraliaPost.pdb
+E:\IMS\1BuyVN\SourceCode\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Release\Nop.Plugin.Shipping.AustraliaPost.csprojResolveAssemblyReference.cache
+E:\IMS\1BuyVN\SourceCode\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Release\Nop.Plugin.Shipping.AustraliaPost.dll
+E:\IMS\1BuyVN\SourceCode\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Release\Nop.Plugin.Shipping.AustraliaPost.pdb

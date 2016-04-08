@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Administration/Views/CheckoutAttribute/Edit.cshtml" hash="7b0fbbc7" filehash="4f5f50c16bc" flags="110000" assembly="App_Web_wfuwtthq" type="ASP._Page_Administration_Views_CheckoutAttribute_Edit_cshtml">
+    <filedeps>
+        <filedep name="/Administration/Views/CheckoutAttribute/Edit.cshtml" />
+    </filedeps>
+</preserve>

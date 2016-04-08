@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Views/Product/CompareProducts.cshtml" hash="7b0fbbc7" filehash="ffffd410b8b77403" flags="110000" assembly="App_Web_etsnacoi" type="ASP._Page_Views_Product_CompareProducts_cshtml">
+    <filedeps>
+        <filedep name="/Views/Product/CompareProducts.cshtml" />
+    </filedeps>
+</preserve>

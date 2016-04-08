@@ -1,0 +1,10 @@
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Views\DiscountRulesCustomerRoles\Configure.cshtml
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Description.txt
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\web.config
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\logo.jpg
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Nop.Plugin.DiscountRules.CustomerRoles.dll.config
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Nop.Plugin.DiscountRules.CustomerRoles.dll
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Nop.Plugin.DiscountRules.CustomerRoles.pdb
+E:\IMS\1BuyVN\SourceCode\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\Nop.Plugin.DiscountRules.CustomerRoles.csprojResolveAssemblyReference.cache
+E:\IMS\1BuyVN\SourceCode\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\Nop.Plugin.DiscountRules.CustomerRoles.dll
+E:\IMS\1BuyVN\SourceCode\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\Nop.Plugin.DiscountRules.CustomerRoles.pdb

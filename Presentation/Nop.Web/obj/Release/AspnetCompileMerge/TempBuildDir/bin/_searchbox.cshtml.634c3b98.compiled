@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Views/Boards/_SearchBox.cshtml" hash="7b0fbbc7" filehash="1e6ac85309ea" flags="110000" assembly="App_Web_0celkrv0" type="ASP._Page_Views_Boards__SearchBox_cshtml">
+    <filedeps>
+        <filedep name="/Views/Boards/_SearchBox.cshtml" />
+    </filedeps>
+</preserve>

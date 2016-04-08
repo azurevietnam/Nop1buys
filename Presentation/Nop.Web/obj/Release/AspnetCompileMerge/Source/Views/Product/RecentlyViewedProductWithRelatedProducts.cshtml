@@ -1,0 +1,31 @@
+﻿@model ProductOverviewModel
+@using Nop.Web.Models.Catalog;
+@if (Model != null)
+{
+    <div class="product-grid">
+        <div class="title">
+            <strong>@T("Products.RecentlyViewedProductWithRelatedProducts")</strong>
+        </div>
+        <div class="item-grid">
+            <div class="item-box">
+                <div class="block block-recently-viewed-products">
+                    <div class="title">
+                        <strong>@T("Products.RecentlyViewedProduct")</strong>
+                    </div>
+                    <div class="listbox">
+                        @if (!String.IsNullOrEmpty(Model.DefaultPictureModel.ImageUrl))
+                        {
+                            <a class="product-picture" href="@Url.RouteUrl("Product", new { SeName = Model.SeName })" title="@Model.DefaultPictureModel.Title">
+                                <img alt="@Model.DefaultPictureModel.AlternateText" src="@Model.DefaultPictureModel.ImageUrl" title="@Model.DefaultPictureModel.Title" />
+                            </a>
+                        }
+                        <a class="product-name" href="@Url.RouteUrl("Product", new { SeName = Model.SeName })">@Model.Name</a>
+                    </div>
+                </div>
+            </div>
+            <div class="item-box">
+                @Html.Action("RelatedProductsWithRecentlyViewedProduct", "Product", new { productId = Model.Id })
+            </div>                
+           </div>
+    </div>        
+}

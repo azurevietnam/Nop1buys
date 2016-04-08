@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Administration/Views/Order/_OrderDetails.Notes.cshtml" hash="7b0fbbc7" filehash="ffffc553c8589fe5" flags="110000" assembly="App_Web_vrqgqqk2" type="ASP._Page_Administration_Views_Order__OrderDetails_Notes_cshtml">
+    <filedeps>
+        <filedep name="/Administration/Views/Order/_OrderDetails.Notes.cshtml" />
+    </filedeps>
+</preserve>

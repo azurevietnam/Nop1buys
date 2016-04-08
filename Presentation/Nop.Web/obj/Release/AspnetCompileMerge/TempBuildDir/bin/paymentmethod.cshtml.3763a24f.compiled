@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Views/Checkout/PaymentMethod.cshtml" hash="7b0fbbc7" filehash="3633003e454e" flags="110000" assembly="App_Web_der3prxm" type="ASP._Page_Views_Checkout_PaymentMethod_cshtml">
+    <filedeps>
+        <filedep name="/Views/Checkout/PaymentMethod.cshtml" />
+    </filedeps>
+</preserve>

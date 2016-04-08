@@ -1,0 +1,23 @@
+﻿@model RootCategorySelectorModel
+@using Nop.Web.Models.Catalog; 
+@using Nop.Core;
+@using Nop.Core.Infrastructure;
+
+@if (Model != null)
+{
+    <div class="currency-selector">
+        @{        
+            var webHelper = EngineContext.Current.Resolve<IWebHelper>();
+
+            var rootMenuItem = Model.AvailableRootCategories.Select(x => new SelectListItem
+            {
+                Text = x.Name,
+                //Value = webHelper.ModifyQueryString(Url.RouteUrl("ChangeCategory", new { selCategory = x.Id }), "returnurl=" + HttpUtility.UrlEncode(HttpContext.Current.Request.RawUrl), null),
+                Value = webHelper.ModifyQueryString(Url.RouteUrl(string.Empty, new { selCategory = x.Id }), "returnurl=" + HttpUtility.UrlEncode(HttpContext.Current.Request.RawUrl), null),
+                Selected = x.Id.Equals(Model.CurrentCategoryId)
+            });
+
+        @Html.DropDownList("selCategory", rootMenuItem, new { onchange = "setLocation(this.value);" })    
+            }
+    </div>
+}

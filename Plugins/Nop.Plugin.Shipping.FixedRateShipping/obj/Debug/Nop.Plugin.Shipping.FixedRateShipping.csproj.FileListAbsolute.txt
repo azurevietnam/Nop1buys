@@ -1,0 +1,10 @@
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\Views\ShippingFixedRate\Configure.cshtml
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\Description.txt
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\web.config
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\logo.jpg
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\Nop.Plugin.Shipping.FixedRateShipping.dll.config
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\Nop.Plugin.Shipping.FixedRateShipping.dll
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\Nop.Plugin.Shipping.FixedRateShipping.pdb
+E:\IMS\1BuyVN\SourceCode\Plugins\Nop.Plugin.Shipping.FixedRateShipping\obj\Debug\Nop.Plugin.Shipping.FixedRateShipping.csprojResolveAssemblyReference.cache
+E:\IMS\1BuyVN\SourceCode\Plugins\Nop.Plugin.Shipping.FixedRateShipping\obj\Debug\Nop.Plugin.Shipping.FixedRateShipping.dll
+E:\IMS\1BuyVN\SourceCode\Plugins\Nop.Plugin.Shipping.FixedRateShipping\obj\Debug\Nop.Plugin.Shipping.FixedRateShipping.pdb

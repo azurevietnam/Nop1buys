@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Administration/Views/Setting/Tax.cshtml" hash="7b0fbbc7" filehash="39fdb3b3323e" flags="110000" assembly="App_Web_4cun2jqc" type="ASP._Page_Administration_Views_Setting_Tax_cshtml">
+    <filedeps>
+        <filedep name="/Administration/Views/Setting/Tax.cshtml" />
+    </filedeps>
+</preserve>

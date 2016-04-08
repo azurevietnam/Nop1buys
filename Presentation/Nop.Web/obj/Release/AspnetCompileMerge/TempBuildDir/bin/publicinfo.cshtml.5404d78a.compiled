@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Plugins/ExternalAuth.Facebook/Views/ExternalAuthFacebook/PublicInfo.cshtml" hash="7b0fbbc7" filehash="ffffe0eff5a593ba" flags="110000" assembly="App_Web_m334gnsh" type="ASP._Page_Plugins_ExternalAuth_Facebook_Views_ExternalAuthFacebook_PublicInfo_cshtml">
+    <filedeps>
+        <filedep name="/Plugins/ExternalAuth.Facebook/Views/ExternalAuthFacebook/PublicInfo.cshtml" />
+    </filedeps>
+</preserve>

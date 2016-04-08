@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Plugins/Shipping.UPS/Views/ShippingUPS/Configure.cshtml" hash="7b0fbbc7" filehash="2f6f8711bf73" flags="110000" assembly="App_Web_nybj1naq" type="ASP._Page_Plugins_Shipping_UPS_Views_ShippingUPS_Configure_cshtml">
+    <filedeps>
+        <filedep name="/Plugins/Shipping.UPS/Views/ShippingUPS/Configure.cshtml" />
+    </filedeps>
+</preserve>

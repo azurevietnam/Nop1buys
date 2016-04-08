@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Administration/Views/ReturnRequest/List.cshtml" hash="7b0fbbc7" filehash="20f9a19defe8" flags="110000" assembly="App_Web_zpz2j3vj" type="ASP._Page_Administration_Views_ReturnRequest_List_cshtml">
+    <filedeps>
+        <filedep name="/Administration/Views/ReturnRequest/List.cshtml" />
+    </filedeps>
+</preserve>

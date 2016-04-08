@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Plugins/Payments.PayPalDirect/Views/PaymentPayPalDirect/PaymentInfo.cshtml" hash="7b0fbbc7" filehash="ffffe989626bb90d" flags="110000" assembly="App_Web_iysf2agt" type="ASP._Page_Plugins_Payments_PayPalDirect_Views_PaymentPayPalDirect_PaymentInfo_cshtml">
+    <filedeps>
+        <filedep name="/Plugins/Payments.PayPalDirect/Views/PaymentPayPalDirect/PaymentInfo.cshtml" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Views/Boards/TopicEdit.cshtml" hash="7b0fbbc7" filehash="fffffa3ca7cc08a6" flags="110000" assembly="App_Web_0celkrv0" type="ASP._Page_Views_Boards_TopicEdit_cshtml">
+    <filedeps>
+        <filedep name="/Views/Boards/TopicEdit.cshtml" />
+    </filedeps>
+</preserve>

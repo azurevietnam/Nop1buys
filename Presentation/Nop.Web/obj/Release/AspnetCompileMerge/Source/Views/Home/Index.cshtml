@@ -1,0 +1,21 @@
+﻿@{
+    Layout = "~/Views/Shared/_ColumnsOne.cshtml";
+}
+<div class="page home-page">
+    <div class="page-body">
+        @Html.Widget("home_page_top")
+        @Html.Widget("home_page_before_categories")
+        @Html.Action("HomepageCategories", "Catalog")
+        
+        @Html.Action("RecentlyViewedProductWithRelatedProducts", "Product", new { productThumbPictureSize = 64 })
+
+        @Html.Widget("home_page_before_products")
+        @Html.Action("HomepageProductsMarkAsNew", "Product")
+        @Html.Action("HomepageProducts", "Product")
+        @Html.Widget("home_page_before_best_sellers")
+        @Html.Action("HomepageBestSellers", "Product")  
+        @Html.Action("HomepageManufacturers", "Catalog")                             
+        @Html.Action("TopicBlock", "Topic", new { systemName = "HomePageText" })
+        @Html.Widget("home_page_bottom")
+    </div>
+</div>

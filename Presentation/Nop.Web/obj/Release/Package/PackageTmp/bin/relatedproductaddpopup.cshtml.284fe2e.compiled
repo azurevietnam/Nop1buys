@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Administration/Views/Product/RelatedProductAddPopup.cshtml" hash="7b0fbbc7" filehash="2227c7140a1f" flags="110000" assembly="App_Web_fk2ogfft" type="ASP._Page_Administration_Views_Product_RelatedProductAddPopup_cshtml">
+    <filedeps>
+        <filedep name="/Administration/Views/Product/RelatedProductAddPopup.cshtml" />
+    </filedeps>
+</preserve>

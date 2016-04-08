@@ -1,0 +1,9 @@
+E:\IMS\1BuyVN\SourceCode\Tests\Nop.Tests\bin\Debug\Nop.Tests.dll
+E:\IMS\1BuyVN\SourceCode\Tests\Nop.Tests\bin\Debug\Nop.Tests.pdb
+E:\IMS\1BuyVN\SourceCode\Tests\Nop.Tests\bin\Debug\nunit.framework.dll
+E:\IMS\1BuyVN\SourceCode\Tests\Nop.Tests\bin\Debug\Rhino.Mocks.dll
+E:\IMS\1BuyVN\SourceCode\Tests\Nop.Tests\bin\Debug\nunit.framework.xml
+E:\IMS\1BuyVN\SourceCode\Tests\Nop.Tests\bin\Debug\Rhino.Mocks.xml
+E:\IMS\1BuyVN\SourceCode\Tests\Nop.Tests\obj\Debug\Nop.Tests.csprojResolveAssemblyReference.cache
+E:\IMS\1BuyVN\SourceCode\Tests\Nop.Tests\obj\Debug\Nop.Tests.dll
+E:\IMS\1BuyVN\SourceCode\Tests\Nop.Tests\obj\Debug\Nop.Tests.pdb

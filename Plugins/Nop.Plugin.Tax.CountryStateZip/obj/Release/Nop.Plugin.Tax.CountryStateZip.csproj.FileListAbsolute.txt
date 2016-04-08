@@ -1,0 +1,10 @@
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Views\TaxCountryStateZip\Configure.cshtml
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Description.txt
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\web.config
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\logo.jpg
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Nop.Plugin.Tax.CountryStateZip.dll.config
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Nop.Plugin.Tax.CountryStateZip.dll
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Nop.Plugin.Tax.CountryStateZip.pdb
+E:\IMS\1BuyVN\SourceCode\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Release\Nop.Plugin.Tax.CountryStateZip.csprojResolveAssemblyReference.cache
+E:\IMS\1BuyVN\SourceCode\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Release\Nop.Plugin.Tax.CountryStateZip.dll
+E:\IMS\1BuyVN\SourceCode\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Release\Nop.Plugin.Tax.CountryStateZip.pdb

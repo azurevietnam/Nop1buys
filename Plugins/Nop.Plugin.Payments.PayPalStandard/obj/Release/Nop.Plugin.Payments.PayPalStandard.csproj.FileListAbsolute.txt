@@ -1,0 +1,10 @@
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\PaymentPayPalStandard\Configure.cshtml
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\PaymentPayPalStandard\PaymentInfo.cshtml
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\web.config
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Description.txt
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\logo.jpg
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.dll.config
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.dll
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.pdb
+E:\IMS\1BuyVN\SourceCode\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Release\Nop.Plugin.Payments.PayPalStandard.dll
+E:\IMS\1BuyVN\SourceCode\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Release\Nop.Plugin.Payments.PayPalStandard.pdb

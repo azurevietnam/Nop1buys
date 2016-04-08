@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Views/ShoppingCart/Cart.cshtml" hash="7b0fbbc7" filehash="3bd889e7fc46" flags="110000" assembly="App_Web_ppcaoxle" type="ASP._Page_Views_ShoppingCart_Cart_cshtml">
+    <filedeps>
+        <filedep name="/Views/ShoppingCart/Cart.cshtml" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Administration/Views/Order/NeverSoldReport.cshtml" hash="7b0fbbc7" filehash="2c3f269d5903" flags="110000" assembly="App_Web_vrqgqqk2" type="ASP._Page_Administration_Views_Order_NeverSoldReport_cshtml">
+    <filedeps>
+        <filedep name="/Administration/Views/Order/NeverSoldReport.cshtml" />
+    </filedeps>
+</preserve>

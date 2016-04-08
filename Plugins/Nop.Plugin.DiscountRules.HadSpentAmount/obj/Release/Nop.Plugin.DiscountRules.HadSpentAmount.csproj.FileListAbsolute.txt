@@ -1,0 +1,9 @@
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\Views\DiscountRulesHadSpentAmount\Configure.cshtml
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\Description.txt
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\web.config
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\logo.jpg
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\Nop.Plugin.DiscountRules.HadSpentAmount.dll.config
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\Nop.Plugin.DiscountRules.HadSpentAmount.dll
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\Nop.Plugin.DiscountRules.HadSpentAmount.pdb
+E:\IMS\1BuyVN\SourceCode\Plugins\Nop.Plugin.DiscountRules.HadSpentAmount\obj\Release\Nop.Plugin.DiscountRules.HadSpentAmount.dll
+E:\IMS\1BuyVN\SourceCode\Plugins\Nop.Plugin.DiscountRules.HadSpentAmount\obj\Release\Nop.Plugin.DiscountRules.HadSpentAmount.pdb

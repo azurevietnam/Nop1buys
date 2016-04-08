@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Views/Checkout/ShippingAddress.cshtml" hash="7b0fbbc7" filehash="ffffd1a1d80955bd" flags="110000" assembly="App_Web_der3prxm" type="ASP._Page_Views_Checkout_ShippingAddress_cshtml">
+    <filedeps>
+        <filedep name="/Views/Checkout/ShippingAddress.cshtml" />
+    </filedeps>
+</preserve>

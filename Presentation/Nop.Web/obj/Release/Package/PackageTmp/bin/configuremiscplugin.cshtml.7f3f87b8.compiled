@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Administration/Views/Plugin/ConfigureMiscPlugin.cshtml" hash="7b0fbbc7" filehash="14c514ded08a" flags="110000" assembly="App_Web_3g0f2eng" type="ASP._Page_Administration_Views_Plugin_ConfigureMiscPlugin_cshtml">
+    <filedeps>
+        <filedep name="/Administration/Views/Plugin/ConfigureMiscPlugin.cshtml" />
+    </filedeps>
+</preserve>

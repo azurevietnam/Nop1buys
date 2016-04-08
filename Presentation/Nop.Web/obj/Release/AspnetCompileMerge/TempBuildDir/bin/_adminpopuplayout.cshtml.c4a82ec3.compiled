@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Administration/Views/Shared/_AdminPopupLayout.cshtml" hash="7b0fbbc7" filehash="fffffedaa152ab2c" flags="110000" assembly="App_Web_gu1kby2d" type="ASP._Page_Administration_Views_Shared__AdminPopupLayout_cshtml">
+    <filedeps>
+        <filedep name="/Administration/Views/Shared/_AdminPopupLayout.cshtml" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Administration/Views/Product/_CreateOrUpdate.PurchasedWithOrders.cshtml" hash="7b0fbbc7" filehash="10c4dae7572" flags="110000" assembly="App_Web_fk2ogfft" type="ASP._Page_Administration_Views_Product__CreateOrUpdate_PurchasedWithOrders_cshtml">
+    <filedeps>
+        <filedep name="/Administration/Views/Product/_CreateOrUpdate.PurchasedWithOrders.cshtml" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Plugins/Payments.AuthorizeNet/Views/PaymentAuthorizeNet/Configure.cshtml" hash="7b0fbbc7" filehash="eafeb681eac" flags="110000" assembly="App_Web_2wodb0l0" type="ASP._Page_Plugins_Payments_AuthorizeNet_Views_PaymentAuthorizeNet_Configure_cshtml">
+    <filedeps>
+        <filedep name="/Plugins/Payments.AuthorizeNet/Views/PaymentAuthorizeNet/Configure.cshtml" />
+    </filedeps>
+</preserve>

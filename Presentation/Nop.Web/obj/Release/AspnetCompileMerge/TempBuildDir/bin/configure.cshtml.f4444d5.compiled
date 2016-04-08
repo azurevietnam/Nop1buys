@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Plugins/Tax.CountryStateZip/Views/TaxCountryStateZip/Configure.cshtml" hash="7b0fbbc7" filehash="21c068f2dac7" flags="110000" assembly="App_Web_anau4ot0" type="ASP._Page_Plugins_Tax_CountryStateZip_Views_TaxCountryStateZip_Configure_cshtml">
+    <filedeps>
+        <filedep name="/Plugins/Tax.CountryStateZip/Views/TaxCountryStateZip/Configure.cshtml" />
+    </filedeps>
+</preserve>

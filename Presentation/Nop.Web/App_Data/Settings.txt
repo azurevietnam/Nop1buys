@@ -1,0 +1,2 @@
+DataProvider: sqlserver
+DataConnectionString: Data Source=localhost;Initial Catalog=1BuysVN;Persist Security Info=True;User ID=sa;Password=hthung@1

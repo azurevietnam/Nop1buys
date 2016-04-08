@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Administration/Views/ProductAttribute/Edit.cshtml" hash="7b0fbbc7" filehash="323394fe02d3" flags="110000" assembly="App_Web_3hvh35g3" type="ASP._Page_Administration_Views_ProductAttribute_Edit_cshtml">
+    <filedeps>
+        <filedep name="/Administration/Views/ProductAttribute/Edit.cshtml" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Views/Boards/LastPost.cshtml" hash="7b0fbbc7" filehash="ffffe62528687d15" flags="110000" assembly="App_Web_0celkrv0" type="ASP._Page_Views_Boards_LastPost_cshtml">
+    <filedeps>
+        <filedep name="/Views/Boards/LastPost.cshtml" />
+    </filedeps>
+</preserve>

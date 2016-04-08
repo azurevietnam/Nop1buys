@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Administration/Views/QueuedEmail/Edit.cshtml" hash="7b0fbbc7" filehash="ffffd58779eb508a" flags="110000" assembly="App_Web_jnde35cc" type="ASP._Page_Administration_Views_QueuedEmail_Edit_cshtml">
+    <filedeps>
+        <filedep name="/Administration/Views/QueuedEmail/Edit.cshtml" />
+    </filedeps>
+</preserve>

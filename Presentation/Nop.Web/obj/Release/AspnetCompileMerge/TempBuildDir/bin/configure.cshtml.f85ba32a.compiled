@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Plugins/Payments.CheckMoneyOrder/Views/PaymentCheckMoneyOrder/Configure.cshtml" hash="7b0fbbc7" filehash="ffffcd7028fb504e" flags="110000" assembly="App_Web_s34f4gkj" type="ASP._Page_Plugins_Payments_CheckMoneyOrder_Views_PaymentCheckMoneyOrder_Configure_cshtml">
+    <filedeps>
+        <filedep name="/Plugins/Payments.CheckMoneyOrder/Views/PaymentCheckMoneyOrder/Configure.cshtml" />
+    </filedeps>
+</preserve>

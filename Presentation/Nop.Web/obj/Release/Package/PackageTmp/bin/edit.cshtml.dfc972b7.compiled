@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Administration/Views/Category/Edit.cshtml" hash="7b0fbbc7" filehash="ffffe1bbcc0f2951" flags="110000" assembly="App_Web_31qshmqd" type="ASP._Page_Administration_Views_Category_Edit_cshtml">
+    <filedeps>
+        <filedep name="/Administration/Views/Category/Edit.cshtml" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,42 @@
+﻿@model MenuModel
+@using Nop.Web.Models.Common;
+
+<ul class="top-menu">
+    @Html.Widget("header_menu_before")
+    <li><a href="@Url.RouteUrl("Deals", new {categoryId = 1})">@T("Menu.Deals")</a></li>
+    <li><a href="@Url.RouteUrl("PreSale", new {categoryId = 1})">@T("Menu.PreSale")</a></li>
+    <li><a href="@Url.RouteUrl("NewProducts")">@T("Menu.New")</a></li>
+    <li><a href="@Url.RouteUrl("TopBrands", new {categoryId = 1, allbrands = "all"})">@T("Menu.TopBrands")</a></li>
+    <li><a href="@Url.RouteUrl("Cool")">@T("Menu.Cool")</a></li>
+    <li><a href="@Url.RouteUrl("Gifts")">@T("Menu.Gifts")</a></li>
+    @Html.Widget("header_menu_after")
+</ul>
+
+@{    
+    //name it "Menu"
+    var responsiveMenuTitle = T("Menu");
+    <div class="menu-toggle">@responsiveMenuTitle</div>
+    <ul class="top-menu mobile">
+        @Html.Widget("mob_header_menu_before")
+        <li><a href="@Url.RouteUrl("Deals")">@T("Menu.Deals")</a></li>
+        <li><a href="@Url.RouteUrl("PreSale")">@T("Menu.PreSale")</a></li>
+        <li><a href="@Url.RouteUrl("NewProducts")">@T("Menu.New")</a></li>
+        <li><a href="@Url.RouteUrl("TopBrands")">@T("Menu.TopBrands")</a></li>
+        <li><a href="@Url.RouteUrl("Cool")">@T("Menu.Cool")</a></li>
+        <li><a href="@Url.RouteUrl("Gifts")">@T("Menu.Gifts")</a></li>
+        @Html.Widget("mob_header_menu_after")
+    </ul>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('.menu-toggle').click(function () {
+                $(this).siblings('.top-menu.mobile').slideToggle('slow');
+            });
+            $('.top-menu.mobile .sublist-toggle').click(function () {
+                $(this).siblings('.sublist').slideToggle('slow');
+            });
+        });
+    </script>
+}
+
+

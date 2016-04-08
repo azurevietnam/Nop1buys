@@ -1,0 +1,9 @@
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Views\WidgetsGoogleAnalytics\Configure.cshtml
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\web.config
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Description.txt
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\logo.jpg
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.dll.config
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.dll
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.pdb
+E:\IMS\1BuyVN\SourceCode\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Release\Nop.Plugin.Widgets.GoogleAnalytics.dll
+E:\IMS\1BuyVN\SourceCode\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Release\Nop.Plugin.Widgets.GoogleAnalytics.pdb

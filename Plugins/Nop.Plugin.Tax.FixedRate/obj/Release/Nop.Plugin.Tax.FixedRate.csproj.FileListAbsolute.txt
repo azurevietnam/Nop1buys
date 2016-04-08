@@ -1,0 +1,10 @@
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Tax.FixedRate\Description.txt
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Tax.FixedRate\web.config
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Tax.FixedRate\Views\TaxFixedRate\Configure.cshtml
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Tax.FixedRate\logo.jpg
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Tax.FixedRate\Nop.Plugin.Tax.FixedRate.dll.config
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Tax.FixedRate\Nop.Plugin.Tax.FixedRate.dll
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Tax.FixedRate\Nop.Plugin.Tax.FixedRate.pdb
+E:\IMS\1BuyVN\SourceCode\Plugins\Nop.Plugin.Tax.FixedRate\obj\Release\Nop.Plugin.Tax.FixedRate.csprojResolveAssemblyReference.cache
+E:\IMS\1BuyVN\SourceCode\Plugins\Nop.Plugin.Tax.FixedRate\obj\Release\Nop.Plugin.Tax.FixedRate.dll
+E:\IMS\1BuyVN\SourceCode\Plugins\Nop.Plugin.Tax.FixedRate\obj\Release\Nop.Plugin.Tax.FixedRate.pdb

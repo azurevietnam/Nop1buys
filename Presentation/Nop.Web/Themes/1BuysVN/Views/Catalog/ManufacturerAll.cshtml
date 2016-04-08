@@ -1,0 +1,36 @@
+﻿@model IList<ManufacturerModel>
+@*@{
+        Layout = "~/Views/Shared/_ColumnsTwo.cshtml";
+
+        //title
+        Html.AddTitleParts(T("PageTitle.Manufacturers").Text);
+    }*@
+@using Nop.Web.Models.Catalog;
+<div class="panel manufacturer-list-page">
+    <h2 class="title text-center">@T("Manufacturers.List")</h2>
+    <div class="panel-body">
+        <div class="manufacturer-grid">
+            <div id="recommended-item-carousel-3" class="carousel slide" data-ride="carousel">
+            <div class="carousel-inner">
+                <!--carousel-->
+
+                @foreach (var item in Model)
+                {
+                    <div class="item">
+                            <div class="picture">
+                                <a href="@Url.RouteUrl("Manufacturer", new { SeName = item.SeName })" title="@item.PictureModel.Title">
+                                    <img alt="@item.PictureModel.AlternateText" src="@item.PictureModel.ImageUrl" title="@item.PictureModel.Title" />
+                                </a>
+                            </div>
+                    </div>
+                }
+            </div>
+                <a class="left recommended-item-control" href="#recommended-item-carousel-3" data-slide="prev">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                <a class="right recommended-item-control" href="#recommended-item-carousel-3" data-slide="next">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+        </div>
+    </div>
+</div>

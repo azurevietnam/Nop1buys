@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Administration/Views/ProductAttribute/_CreateOrUpdate.cshtml" hash="7b0fbbc7" filehash="ffffc871e4da6223" flags="110000" assembly="App_Web_3hvh35g3" type="ASP._Page_Administration_Views_ProductAttribute__CreateOrUpdate_cshtml">
+    <filedeps>
+        <filedep name="/Administration/Views/ProductAttribute/_CreateOrUpdate.cshtml" />
+    </filedeps>
+</preserve>

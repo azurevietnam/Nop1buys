@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Views/Common/PageNotFound.cshtml" hash="7b0fbbc7" filehash="ffffdf3d009596cc" flags="110000" assembly="App_Web_rubatvyn" type="ASP._Page_Views_Common_PageNotFound_cshtml">
+    <filedeps>
+        <filedep name="/Views/Common/PageNotFound.cshtml" />
+    </filedeps>
+</preserve>

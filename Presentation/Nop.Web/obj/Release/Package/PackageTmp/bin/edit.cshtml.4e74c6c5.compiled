@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Administration/Views/Currency/Edit.cshtml" hash="7b0fbbc7" filehash="ffffbaeea5479843" flags="110000" assembly="App_Web_ypim3zou" type="ASP._Page_Administration_Views_Currency_Edit_cshtml">
+    <filedeps>
+        <filedep name="/Administration/Views/Currency/Edit.cshtml" />
+    </filedeps>
+</preserve>

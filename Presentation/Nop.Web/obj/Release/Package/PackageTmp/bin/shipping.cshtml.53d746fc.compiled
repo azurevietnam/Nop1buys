@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Administration/Views/Setting/Shipping.cshtml" hash="7b0fbbc7" filehash="39c1bdb3c2c6" flags="110000" assembly="App_Web_4cun2jqc" type="ASP._Page_Administration_Views_Setting_Shipping_cshtml">
+    <filedeps>
+        <filedep name="/Administration/Views/Setting/Shipping.cshtml" />
+    </filedeps>
+</preserve>

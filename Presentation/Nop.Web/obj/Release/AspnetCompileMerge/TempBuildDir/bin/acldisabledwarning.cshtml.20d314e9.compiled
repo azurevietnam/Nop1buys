@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Administration/Views/Common/AclDisabledWarning.cshtml" hash="7b0fbbc7" filehash="ffffd21b9f54c093" flags="110000" assembly="App_Web_owa4pfbz" type="ASP._Page_Administration_Views_Common_AclDisabledWarning_cshtml">
+    <filedeps>
+        <filedep name="/Administration/Views/Common/AclDisabledWarning.cshtml" />
+    </filedeps>
+</preserve>

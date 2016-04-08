@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Administration/Views/CustomerAttribute/ValueEditPopup.cshtml" hash="7b0fbbc7" filehash="34c4fe0751fd" flags="110000" assembly="App_Web_55sbyibe" type="ASP._Page_Administration_Views_CustomerAttribute_ValueEditPopup_cshtml">
+    <filedeps>
+        <filedep name="/Administration/Views/CustomerAttribute/ValueEditPopup.cshtml" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Administration/Views/Template/ProductTemplates.cshtml" hash="7b0fbbc7" filehash="3ce0237fb7d7" flags="110000" assembly="App_Web_mun2u3za" type="ASP._Page_Administration_Views_Template_ProductTemplates_cshtml">
+    <filedeps>
+        <filedep name="/Administration/Views/Template/ProductTemplates.cshtml" />
+    </filedeps>
+</preserve>

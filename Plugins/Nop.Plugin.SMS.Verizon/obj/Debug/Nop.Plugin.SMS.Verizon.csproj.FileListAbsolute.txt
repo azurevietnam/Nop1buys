@@ -1,0 +1,9 @@
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\SMS.Verizon\Views\SmsVerizon\Configure.cshtml
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\SMS.Verizon\Description.txt
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\SMS.Verizon\web.config
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\SMS.Verizon\logo.jpg
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\SMS.Verizon\Nop.Plugin.SMS.Verizon.dll.config
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\SMS.Verizon\Nop.Plugin.SMS.Verizon.dll
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\SMS.Verizon\Nop.Plugin.SMS.Verizon.pdb
+E:\IMS\1BuyVN\SourceCode\Plugins\Nop.Plugin.SMS.Verizon\obj\Debug\Nop.Plugin.SMS.Verizon.dll
+E:\IMS\1BuyVN\SourceCode\Plugins\Nop.Plugin.SMS.Verizon\obj\Debug\Nop.Plugin.SMS.Verizon.pdb

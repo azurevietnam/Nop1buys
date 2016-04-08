@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Administration/Views/Country/StateEditPopup.cshtml" hash="7b0fbbc7" filehash="ffffc938d6c05759" flags="110000" assembly="App_Web_zycqs2lg" type="ASP._Page_Administration_Views_Country_StateEditPopup_cshtml">
+    <filedeps>
+        <filedep name="/Administration/Views/Country/StateEditPopup.cshtml" />
+    </filedeps>
+</preserve>

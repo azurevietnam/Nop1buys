@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Administration/Views/AddressAttribute/Edit.cshtml" hash="7b0fbbc7" filehash="3793ead8a883" flags="110000" assembly="App_Web_iuia5rp0" type="ASP._Page_Administration_Views_AddressAttribute_Edit_cshtml">
+    <filedeps>
+        <filedep name="/Administration/Views/AddressAttribute/Edit.cshtml" />
+    </filedeps>
+</preserve>

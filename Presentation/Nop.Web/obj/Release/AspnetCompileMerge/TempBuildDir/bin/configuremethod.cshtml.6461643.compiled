@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Administration/Views/Payment/ConfigureMethod.cshtml" hash="7b0fbbc7" filehash="ffffd7bdbbfdd815" flags="110000" assembly="App_Web_0mvmwsur" type="ASP._Page_Administration_Views_Payment_ConfigureMethod_cshtml">
+    <filedeps>
+        <filedep name="/Administration/Views/Payment/ConfigureMethod.cshtml" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Administration/Views/Blog/_CreateOrUpdate.cshtml" hash="7b0fbbc7" filehash="ffffc0905ae5bdcf" flags="110000" assembly="App_Web_u1zodbdm" type="ASP._Page_Administration_Views_Blog__CreateOrUpdate_cshtml">
+    <filedeps>
+        <filedep name="/Administration/Views/Blog/_CreateOrUpdate.cshtml" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Views/Customer/_CheckUsernameAvailability.cshtml" hash="7b0fbbc7" filehash="ee419f5faf5" flags="110000" assembly="App_Web_t2q1oklw" type="ASP._Page_Views_Customer__CheckUsernameAvailability_cshtml">
+    <filedeps>
+        <filedep name="/Views/Customer/_CheckUsernameAvailability.cshtml" />
+    </filedeps>
+</preserve>

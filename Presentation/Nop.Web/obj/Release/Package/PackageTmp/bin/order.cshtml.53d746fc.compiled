@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Administration/Views/Setting/Order.cshtml" hash="7b0fbbc7" filehash="3a422b0c68f3" flags="110000" assembly="App_Web_4cun2jqc" type="ASP._Page_Administration_Views_Setting_Order_cshtml">
+    <filedeps>
+        <filedep name="/Administration/Views/Setting/Order.cshtml" />
+    </filedeps>
+</preserve>

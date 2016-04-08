@@ -1,0 +1,6 @@
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\bin\Nop.Admin.dll.config
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\bin\Nop.Admin.dll
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\bin\Nop.Admin.pdb
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.csprojResolveAssemblyReference.cache
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.dll
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.pdb

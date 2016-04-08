@@ -1,0 +1,11 @@
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Shipping.Fedex\Views\ShippingFedex\Configure.cshtml
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Shipping.Fedex\web.config
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Shipping.Fedex\Description.txt
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Shipping.Fedex\logo.jpg
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Shipping.Fedex\Nop.Plugin.Shipping.Fedex.dll.config
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Shipping.Fedex\Nop.Plugin.Shipping.Fedex.dll
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Shipping.Fedex\Nop.Plugin.Shipping.Fedex.XmlSerializers.dll
+E:\IMS\1BuyVN\SourceCode\Presentation\Nop.Web\Plugins\Shipping.Fedex\Nop.Plugin.Shipping.Fedex.pdb
+E:\IMS\1BuyVN\SourceCode\Plugins\Nop.Plugin.Shipping.Fedex\obj\Release\Nop.Plugin.Shipping.Fedex.dll
+E:\IMS\1BuyVN\SourceCode\Plugins\Nop.Plugin.Shipping.Fedex\obj\Release\Nop.Plugin.Shipping.Fedex.pdb
+E:\IMS\1BuyVN\SourceCode\Plugins\Nop.Plugin.Shipping.Fedex\obj\Release\Nop.Plugin.Shipping.Fedex.XmlSerializers.dll
